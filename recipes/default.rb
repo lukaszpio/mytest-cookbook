@@ -6,6 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+# change locally
 
 package 'httpd' do
   action :install
