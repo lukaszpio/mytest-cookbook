@@ -5,7 +5,12 @@
 # Copyright 2014, YOUR_COMPANY_NAME
 #
 # All rights reserved - Do Not Redistribute
-#Dodatkowy komentarz lokalny
+#
+<<<<<<< HEAD
+# change locally
+=======
+# Web change
+>>>>>>> 509af6b28c82e4213289b0a9dc7c7610e2dbe79a
 
 package 'httpd' do
   action :install
