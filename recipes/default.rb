@@ -6,7 +6,10 @@
 #
 # All rights reserved - Do Not Redistribute
 #Dodatkowy komentarz lokalny
+=======
 
+#web
+>>>>>>> 647a0b6b377c2e8840fafbad7024dde8fcc0256b
 package 'httpd' do
   action :install
 end
