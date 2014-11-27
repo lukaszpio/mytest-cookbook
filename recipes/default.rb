@@ -5,9 +5,7 @@
 # Copyright 2014, YOUR_COMPANY_NAME
 #
 # All rights reserved - Do Not Redistribute
-#
-# change locally
-
+change locally
 package 'httpd' do
   action :install
 end
